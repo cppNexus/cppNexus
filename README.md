@@ -141,4 +141,8 @@ EOF
 ─────────────────────────────────────────────────────────────────────────────
 ```
 ![Stats](https://github-readme-stats.vercel.app/api?username=cppNexus&show_icons=true&theme=dark&hide_border=true)
+
 ![Activity](https://github-readme-activity-graph.vercel.app/graph?username=cppNexus&theme=github-dark)
+
+
+

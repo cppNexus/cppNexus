@@ -82,8 +82,10 @@ namespace nexus {
  │     GITHUB      :: github.com/cppNexus                                  │
  │     EMAIL       :: cppnexus@proton.me                                   │
  │     TWITTER     :: @CPPNexus                                            │
+ │     JABBER      :: cppnexus@conversations.im                            │
  │                                                                         │
- │  > Open for contract work and technical consultations                   │
+ │  > Open for contract work                                               │
+ │  > Ready to discuss private implementations                             │
  │  > Conference talks & workshop facilitation available                   │
  │                                                                         │
  └─────────────────────────────────────────────────────────────────────────┘
@@ -101,18 +103,10 @@ namespace nexus {
 │                                                                   │
 └───────────────────────────────────────────────────────────────────┘
 ─────────────────────────────────────────────────────────────────────────────
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-─────────────────────────────────────────────────────────────────────────────
 cpptemplate<typename T>
 concept ProfileQuote = requires {
     { "Talk is cheap. Show me the code." } -> std::same_as<const char*>;
 };
-
 static_assert(ProfileQuote<decltype("- Linus Torvalds")>);
 ─────────────────────────────────────────────────────────────────────────────
 diff+ Modern C++ advocate (auto, constexpr, concepts)

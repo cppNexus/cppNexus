@@ -1,5 +1,8 @@
 ## Hi there 👋
-
+[![C++](https://img.shields.io/badge/C%2B%2B-Expert-blue)](https://isocpp.org/)
+[![Python](https://img.shields.io/badge/Python-Advanced-green)](https://www.python.org/)
+[![Status](https://img.shields.io/badge/Status-Research--grade-red)](https://github.com/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 <!--
 **cppNexus/cppNexus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

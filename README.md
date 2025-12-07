@@ -81,8 +81,8 @@ namespace nexus {
  │                                                                         │
  │     GITHUB      :: github.com/cppNexus                                  │
  │     EMAIL       :: cppnexus@proton.me                                   │
- │     TWITTER     :: @CPPNexus                                            │
- │     JABBER      :: cppnexus@conversations.im                            │
+ │     Telegram    :: @cppNexus                                            │
+ │     JABBER      :: cppnexus@xmpp.is                           │
  │                                                                         │
  │  > Open for contract work                                               │
  │  > Ready to discuss private implementations                             │

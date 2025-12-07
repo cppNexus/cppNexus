@@ -82,7 +82,7 @@ namespace nexus {
  │     GITHUB      :: github.com/cppNexus                                  │
  │     EMAIL       :: cppnexus@proton.me                                   │
  │     Telegram    :: @cppNexus                                            │
- │     JABBER      :: cppnexus@xmpp.is                           │
+ │     JABBER      :: cppnexus@xmpp.is                                     │
  │                                                                         │
  │  > Open for contract work                                               │
  │  > Ready to discuss private implementations                             │

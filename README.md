@@ -32,8 +32,8 @@ blockchain-zc-parser
   Allocation-free
   Streaming blkNNNNN.dat iteration
   no_std friendly
-[nexus@core ~]$ cat stack.txt
 
+[nexus@core ~]$ cat stack.txt
 PRIMARY     :: Rust
 SECONDARY   :: C++23 • Swift • Python
 FOCUS       :: Networking • Binary parsing • Memory layout
@@ -54,11 +54,12 @@ Predictable systems > clever abstractions
 ✓ Multi-tenant infra design
 ✓ Resource-aware architecture
 ✓ no_std and embedded-friendly code
-[nexus@core ~]$ collaboration
 
+[nexus@core ~]$ collaboration
 • Open to infra and performance-heavy projects
 • Interested in Rust, blockchain, and systems design
 • Available for architectural consulting
+
 [nexus@core ~]$ logout
 >> STATUS: building scalable systems
 >> MEMORY: predictable

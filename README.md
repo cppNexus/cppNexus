@@ -26,7 +26,7 @@
 Systems engineer. Rust-first, zero-copy by default.  
 I build infrastructure that doesn't apologize for being fast.
 
-- Networking, binary parsing, memory layout — this is where I live
+- Networking, binary parsing, memory layout - this is where I live
 - Data-oriented design over clever abstractions
 - Compile-time guarantees over runtime surprises
 - **Predictable systems > magic systems**
